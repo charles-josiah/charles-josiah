@@ -36,6 +36,8 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 - 🗄️ **Led the migration of an 8 TB MongoDB cluster** (3 EC2 replicas) to **20+ MongoDB Atlas instances**, segmenting workloads by customer and dramatically improving I/O and scalability
 - 🤝 **Enterprise TAM at AWS**, advising large customers on EKS, Karpenter, WAF, Shield, Control Tower, DDoS protection, and FinOps/CCoE practices
 - 🚚 **Multiple on-prem → cloud migrations** to OCI/AWS/Azure with security hardening, compliance automation, and SRE observability (Prometheus, Grafana, Datadog)
+- 🛡️ **Designed a Disaster Recovery strategy for a healthcare environment after a ransomware incident** — 33 VMs and ~5.8 TB of data: closed backup coverage gaps and defined Veeam-based recovery, monitoring, and restore-testing practices
+- 🌐 **Re-engineered and documented a multi-vendor data center network** (Cisco Nexus, Datacom, Aruba, HP/Comware) — 10/40 Gb connectivity, LACP, trunking, and VLAN segmentation supporting Hyper-V, Veeam, storage, and live-migration workloads
 - 📗 **Technical reviewer of a published cybersecurity book** — *Sistemas de Detecção e Prevenção de Intrusos* (ISBN 978-65-6049-083-3), SENAI, 2025
 - 📜 **56 certifications and badges** — including AWS Certified Security – Specialty, OCI Architect Associate, Fortinet cybersecurity track, and Linux Foundation LFCA
 
@@ -50,9 +52,9 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 | **Infrastructure as Code** | Terraform, Ansible, CloudFormation, Pulumi |
 | **CI/CD & GitOps** | ArgoCD, Jenkins, GitHub Actions, Harness, Flux |
 | **Observability & Monitoring** | Datadog (APM, SLO/SLA design), Prometheus, Grafana, Alertmanager, CloudWatch, Zabbix, ELK/OpenSearch, New Relic, Nagios |
-| **Operating Systems & Virtualization** | Linux (RHEL/Oracle/Debian/Ubuntu), FreeBSD, Proxmox, VMware, KVM, OLVM, XEN, Hyper-V |
-| **Networking** | BGP, OSPF, ECMP, VPC design, DNS, load balancing, VPNs (IPsec, OpenVPN), Cisco, Mikrotik, Ubiquiti |
-| **Security** | Firewalls (Fortinet/FortiGate, Cisco, pfSense, Linux), WAF, DDoS mitigation, compliance automation, hardening, cryptography & forensics (instructor level) |
+| **Operating Systems & Virtualization** | Linux (RHEL/Oracle/Debian/Ubuntu), FreeBSD, Windows Server, Proxmox, VMware, KVM, OLVM, XEN, Hyper-V, LVM/XFS |
+| **Networking** | BGP, OSPF, ECMP, VLANs, LACP/trunking, 10/40 Gb data center fabrics, VPC design, DNS, load balancing, VPNs (IPsec, OpenVPN), Cisco Nexus, Aruba, Datacom, HP/Comware, Mikrotik, Ubiquiti |
+| **Security** | Firewalls (Fortinet/FortiGate, Cisco, pfSense, Linux), WAF, DDoS mitigation, ransomware response & DR planning (Veeam), compliance automation, hardening, cryptography & forensics (instructor level) |
 | **Databases (infra-side)** | PostgreSQL, MySQL, AWS RDS/Aurora, MongoDB/Atlas, Redis/ElastiCache — migrations, HA, Multi-AZ/multi-region |
 | **Scripting & Automation** | Python, Shell Script (Bash), Node.js (Datadog instrumentation libraries) |
 | **Practices** | SRE (SLI/SLO/SLA), FinOps/CCoE, DevOps, incident response (10+ yrs on-call), technical writing & training |
@@ -64,7 +66,8 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 ### Senior Cloud Engineer · SRE · Cloud Architect — Exímio Soluções em TI
 **Aug 2024 – Present · Remote (Brazil)**
 
-- Deliver **L3 support for high-severity incidents** across infrastructure, networking, and cloud; act as technical reference for the support team, reducing incident turnaround time
+- Resolve **complex production incidents across hybrid environments** — Proxmox, Hyper-V, VMware, Linux, Windows Server, Docker, Oracle, FortiGate, VPNs, LVM/XFS storage — using evidence-driven troubleshooting, log correlation, and repeatable operational runbooks
+- Act as **L3 technical reference** for the support team, improving resolution quality and reducing incident turnaround time
 - Lead **on-prem → Oracle Cloud (OCI) migration projects** focused on reliability, performance, and automated compliance
 - Design and implement **multi-cloud architectures (AWS, Azure, OCI)** balancing scalability and cost-efficiency
 - Improve performance and consistency with **Docker/Kubernetes containerization, automation scripting, and infrastructure tuning**
@@ -185,7 +188,7 @@ Full verified list on [Credly](https://www.credly.com/users/charlesjosiah) and [
 <details>
 <summary>🔎 Keywords (for recruiters & ATS)</summary>
 
-Site Reliability Engineer, SRE, DevOps Engineer, Cloud Engineer, Cloud Architect, Platform Engineer, Infrastructure Engineer, AWS, Amazon Web Services, Oracle Cloud Infrastructure, OCI, Azure, GCP, Google Cloud, Kubernetes, EKS, Karpenter, Docker, Terraform, Ansible, CloudFormation, Pulumi, ArgoCD, GitOps, CI/CD, Jenkins, GitHub Actions, FinOps, cloud cost optimization, Datadog, Prometheus, Grafana, Zabbix, CloudWatch, OpenSearch, ELK, observability, monitoring, SLI, SLO, SLA, incident response, on-call, Linux, FreeBSD, RHEL, Ubuntu, Debian, networking, BGP, OSPF, VPN, IPsec, firewall, Fortinet, FortiGate, pfSense, Cisco, WAF, DDoS, security hardening, compliance, PostgreSQL, MySQL, Aurora, RDS, MongoDB, Atlas, Redis, ElastiCache, Python, Shell Script, Bash, virtualization, Proxmox, VMware, KVM, cloud migration, multi-cloud, high availability, disaster recovery, technical account manager, TAM, remote, Brazil, LATAM, Europe, USA, United States, relocation, worldwide.
+Site Reliability Engineer, SRE, DevOps Engineer, Cloud Engineer, Cloud Architect, Platform Engineer, Infrastructure Engineer, AWS, Amazon Web Services, Oracle Cloud Infrastructure, OCI, Azure, GCP, Google Cloud, Kubernetes, EKS, Karpenter, Docker, Terraform, Ansible, CloudFormation, Pulumi, ArgoCD, GitOps, CI/CD, Jenkins, GitHub Actions, FinOps, cloud cost optimization, Datadog, Prometheus, Grafana, Zabbix, CloudWatch, OpenSearch, ELK, observability, monitoring, SLI, SLO, SLA, incident response, on-call, Linux, FreeBSD, RHEL, Ubuntu, Debian, networking, BGP, OSPF, VPN, IPsec, firewall, Fortinet, FortiGate, pfSense, Cisco, WAF, DDoS, security hardening, compliance, PostgreSQL, MySQL, Aurora, RDS, MongoDB, Atlas, Redis, ElastiCache, Python, Shell Script, Bash, virtualization, Proxmox, VMware, KVM, cloud migration, multi-cloud, high availability, disaster recovery, Veeam, backup and restore, ransomware response, Hyper-V, Windows Server, VLAN, LACP, Cisco Nexus, Aruba, technical account manager, TAM, remote, Brazil, LATAM, Europe, USA, United States, relocation, worldwide.
 
 </details>
 
