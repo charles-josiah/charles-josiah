@@ -49,11 +49,11 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 | Domain | Technologies & Tools |
 |---|---|
 | **Cloud Platforms** | AWS (EKS, EC2, RDS, ELB, WAF, Shield, Control Tower, ElastiCache), Oracle Cloud (OCI), Azure, GCP, private clouds (Equinix, Unifique) |
-| **Containers & Orchestration** | Kubernetes, Amazon EKS, Oracle Kubernetes Engine (OKE), Karpenter, Helm, Traefik, CoreDNS, Docker, containerd |
-| **Infrastructure as Code** | Terraform, Ansible, CloudFormation, Pulumi, OCI CLI |
-| **CI/CD & GitOps** | ArgoCD, Jenkins, GitHub Actions, Harness, Flux |
+| **Containers & Orchestration** | Kubernetes, Amazon EKS, Oracle Kubernetes Engine (OKE), Karpenter, Helm, Traefik, Rancher, CoreDNS, Docker, containerd |
+| **Infrastructure as Code** | Terraform, Ansible, CloudFormation, Pulumi, OCI CLI, Packer |
+| **CI/CD & GitOps** | ArgoCD, Jenkins, GitHub Actions, GitLab CI/CD, Harness, Flux |
 | **Observability & Monitoring** | Datadog (APM, SLO/SLA design), Prometheus, Grafana, Alertmanager, CloudWatch, Zabbix, ELK/OpenSearch, New Relic, Nagios |
-| **Operating Systems & Virtualization** | Linux (RHEL/Oracle/Debian/Ubuntu), FreeBSD, Windows Server, Proxmox, VMware, KVM, OLVM, XEN, Hyper-V · Storage: Dell ME5, iSCSI, Oracle ASM, OCFS2, LVM/XFS |
+| **Operating Systems & Virtualization** | Linux (RHEL/Oracle/Debian/Ubuntu), FreeBSD, Windows Server, Proxmox, VMware, KVM, OLVM, XEN, Hyper-V · Storage/SAN: Dell ME5 & PowerStore, IBM Storwize, iSCSI/FC, multipath/ALUA, Oracle ASM/AFD, OCFS2, LVM/XFS · Backup/DR: Veeam, OCI Object Storage, immutable repositories |
 | **Networking** | BGP, OSPF, ECMP, VLANs, LACP/trunking, 10/40 Gb data center fabrics, VPC design, DNS, load balancing, VPNs (IPsec, OpenVPN), Cisco Nexus, Aruba, Datacom, HP/Comware, Mikrotik, Ubiquiti |
 | **Security** | Firewalls (Fortinet/FortiGate, Cisco, pfSense, Linux), WAF, DDoS mitigation, IAM, IPsec/SSL VPNs, certificate management, ransomware response & DR planning (Veeam), compliance automation, Linux hardening, cryptography & forensics (instructor level) |
 | **Databases (infra-side)** | PostgreSQL, MySQL, AWS RDS/Aurora, MongoDB/Atlas, Redis/ElastiCache — migrations, HA, Multi-AZ/multi-region |
@@ -74,7 +74,8 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 - Support **enterprise storage and virtualization stacks** — Dell ME5, iSCSI, Oracle ASM, OCFS2, LVM/XFS across Proxmox, Hyper-V, VMware, KVM, and Veeam — resolving critical incidents in storage allocation, filesystem locks, virtual disks, and backup infrastructure
 - Automate infrastructure operations and **cloud inventory** with Ansible, Python, Bash, Terraform, and OCI CLI — reducing manual validation effort and improving consistency and auditability
 - Lead **on-prem → OCI migration projects** and design **multi-cloud architectures (AWS, Azure, OCI)** balancing reliability, scalability, and cost-efficiency
-- Strengthen security across hybrid environments: Linux hardening, IAM controls, FortiGate administration, IPsec/SSL VPNs, VLAN isolation, certificate management, and automated OCI compliance
+- Design **resilient site-to-cloud connectivity (Cisco ASA ↔ OCI)** — dual IPsec/VTI tunnels, BGP + static routes with IP SLA tracking, and controlled failover/failback validation
+- Strengthen security across hybrid environments: CIS/Linux hardening, IAM controls, FortiGate/SonicWall administration, IPsec/SSL VPNs, VLAN isolation, certificate management, and automated OCI compliance
 - Produce **runbooks, change plans, incident reports, and architecture documentation** — translating complex findings into clear actions for engineering, customers, and management
 
 ### Fractional DevOps/SRE Engineer — GoVyrl, Inc. ([Carro](https://getcarro.com) & Modern Dropship)
@@ -192,7 +193,7 @@ Full verified list on [Credly](https://www.credly.com/users/charlesjosiah) and [
 <details>
 <summary>🔎 Keywords (for recruiters & ATS)</summary>
 
-Site Reliability Engineer, SRE, DevOps Engineer, Cloud Engineer, Cloud Architect, Platform Engineer, Infrastructure Engineer, AWS, Amazon Web Services, Oracle Cloud Infrastructure, OCI, Azure, GCP, Google Cloud, Kubernetes, EKS, OKE, Oracle Kubernetes Engine, Karpenter, Helm, Traefik, CoreDNS, Docker, Terraform, Ansible, CloudFormation, Pulumi, OCI CLI, ArgoCD, GitOps, CI/CD, Jenkins, GitHub Actions, FinOps, cloud cost optimization, root cause analysis, RCA, Datadog, Prometheus, Grafana, Zabbix, CloudWatch, OpenSearch, ELK, observability, monitoring, SLI, SLO, SLA, incident response, on-call, Linux, FreeBSD, RHEL, Ubuntu, Debian, networking, BGP, OSPF, VPN, IPsec, firewall, Fortinet, FortiGate, pfSense, Cisco, WAF, DDoS, security hardening, compliance, PostgreSQL, MySQL, Aurora, RDS, MongoDB, Atlas, Redis, ElastiCache, Python, Shell Script, Bash, virtualization, Proxmox, VMware, KVM, cloud migration, multi-cloud, high availability, disaster recovery, Veeam, backup and restore, ransomware response, Hyper-V, Windows Server, VLAN, LACP, Cisco Nexus, Aruba, technical account manager, TAM, remote, Brazil, LATAM, Europe, USA, United States, relocation, worldwide.
+Site Reliability Engineer, SRE, DevOps Engineer, Cloud Engineer, Cloud Architect, Platform Engineer, Infrastructure Engineer, AWS, Amazon Web Services, Oracle Cloud Infrastructure, OCI, Azure, GCP, Google Cloud, Kubernetes, EKS, OKE, Oracle Kubernetes Engine, Karpenter, Helm, Traefik, CoreDNS, Docker, Terraform, Ansible, CloudFormation, Pulumi, OCI CLI, ArgoCD, GitOps, CI/CD, Jenkins, GitHub Actions, FinOps, cloud cost optimization, root cause analysis, RCA, Datadog, Prometheus, Grafana, Zabbix, CloudWatch, OpenSearch, ELK, observability, monitoring, SLI, SLO, SLA, incident response, on-call, Linux, FreeBSD, RHEL, Ubuntu, Debian, networking, BGP, OSPF, VPN, IPsec, firewall, Fortinet, FortiGate, pfSense, Cisco, WAF, DDoS, security hardening, compliance, PostgreSQL, MySQL, Aurora, RDS, MongoDB, Atlas, Redis, ElastiCache, Python, Shell Script, Bash, virtualization, Proxmox, VMware, KVM, cloud migration, multi-cloud, high availability, disaster recovery, Veeam, backup and restore, immutable backup, ransomware response, runbooks, Hyper-V, Windows Server, VLAN, LACP, Cisco Nexus, Cisco ASA, Aruba, SonicWall, Rancher, Packer, GitLab CI/CD, Oracle RAC, multipath, PowerStore, IBM Storwize, CIS hardening, technical account manager, TAM, remote, Brazil, LATAM, Europe, USA, United States, relocation, worldwide.
 
 </details>
 
