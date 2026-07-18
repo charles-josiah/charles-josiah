@@ -39,7 +39,7 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 - 🚚 **Multiple on-prem → cloud migrations** to OCI/AWS/Azure with security hardening, compliance automation, and SRE observability (Prometheus, Grafana, Datadog)
 - 🛡️ **Designed a Disaster Recovery strategy for a healthcare environment after a ransomware incident** — 33 VMs and ~5.8 TB of data: closed backup coverage gaps and defined Veeam-based recovery, monitoring, and restore-testing practices
 - 🌐 **Re-engineered and documented a multi-vendor data center network** (Cisco Nexus, Datacom, Aruba, HP/Comware) — 10/40 Gb connectivity, LACP, trunking, and VLAN segmentation supporting Hyper-V, Veeam, storage, and live-migration workloads
-- 📗 **Technical reviewer of a published cybersecurity book** — *Sistemas de Detecção e Prevenção de Intrusos* (ISBN 978-65-6049-083-3), SENAI, 2025
+- 📗 **Technical reviewer of two published cybersecurity books** (SENAI/SC, 2025) — *Sistemas de Detecção e Prevenção de Intrusos* (IDS/IPS) and *Modelagem e Simulação de Ataques Cibernéticos* (cyber attack modeling & simulation)
 - 📜 **56 certifications and badges** — including AWS Certified Security – Specialty, OCI Architect Associate, Fortinet cybersecurity track, and Linux Foundation LFCA
 
 ---
@@ -167,7 +167,8 @@ Full verified list on [Credly](https://www.credly.com/users/charlesjosiah) and [
 
 ## 📚 Publications & Community
 
-- 📗 **Technical Reviewer** — *Sistemas de Detecção e Prevenção de Intrusos* (IDS/IPS), ISBN 978-65-6049-083-3, SENAI Centro de Educação Digital, 2025
+- 📗 **Technical Reviewer** — *Sistemas de Detecção e Prevenção de Intrusos* (IDS/IPS), by Daniel Devegili — ISBN 978-65-6049-083-3, SENAI/SC Centro de Educação Digital, 2025, 217 pp.
+- 📘 **Technical Reviewer** — *Modelagem e Simulação de Ataques Cibernéticos* (cyber attack modeling & simulation), by João Henrique Faes Battisti — ISBN 978-65-6049-103-8, SENAI/SC Centro de Educação Digital, 2025, 279 pp.
 - ✍️ **Author** — technical articles on [Viva o Linux](https://www.vivaolinux.com.br) (e.g., *Zabbix API with cURL — practical examples*, 2020) and 14 publications listed on [LinkedIn](https://www.linkedin.com/in/charlesjosiah/details/publications/)
 
 ---
