@@ -18,7 +18,7 @@
 
 Senior **Site Reliability Engineer (SRE)** and **Cloud Architect** with **20+ years in IT** — hands-on with production infrastructure since 2003. I design, migrate, automate, and operate **secure, scalable, cost-efficient platforms** across **AWS, Oracle Cloud (OCI), Azure, and GCP**.
 
-Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enterprise customers on EKS/Kubernetes, networking, security, and FinOps. Deep Linux roots, strong networking background (BGP, OSPF, firewalls, VPNs), and a track record of **measurable results** — like cutting EKS cluster costs by **~70%** and migrating an **8 TB MongoDB cluster** with zero data loss.
+Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enterprise customers on EKS/Kubernetes, networking, security, and FinOps. Deep Linux roots, strong networking background (BGP, OSPF, firewalls, VPNs), and a track record of **measurable results** — like driving a major EKS cluster cost reduction and migrating an **8 TB MongoDB cluster** with zero data loss.
 
 **What I bring to a team:**
 
@@ -32,7 +32,7 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 
 ## 🏆 Career Highlights
 
-- 💸 **Cut EKS cluster costs by ~70%** at a US e-commerce platform (GoVyrl/Carro) through rightsizing, node-group redesign, spot/mixed instance strategies, and workload optimization
+- 💸 **Led a FinOps initiative that significantly cut EKS cluster costs** at a US e-commerce platform (GoVyrl/Carro) through rightsizing, node-group redesign, spot/mixed instance strategies, and workload optimization
 - 🗄️ **Led the migration of an 8 TB MongoDB cluster** (3 EC2 replicas) to **20+ MongoDB Atlas instances**, segmenting workloads by customer and dramatically improving I/O and scalability
 - ☸️ **Designed and operated production-grade Kubernetes on Oracle Kubernetes Engine (OKE)** — fixed + spot node pools, cluster autoscaling, CoreDNS, Traefik, Helm, internal load balancers, and capacity planning on Oracle Linux workers
 - 🤝 **Enterprise TAM at AWS**, advising large customers on EKS, Karpenter, WAF, Shield, Control Tower, DDoS protection, and FinOps/CCoE practices
@@ -81,7 +81,7 @@ Former **Technical Account Manager at Amazon Web Services (AWS)**, guiding enter
 ### Fractional DevOps/SRE Engineer — GoVyrl, Inc. ([Carro](https://getcarro.com) & Modern Dropship)
 **Mar 2025 – Apr 2026 · Remote (client in Irvine, CA, USA)**
 
-- Led a **FinOps initiative achieving ~70% reduction in EKS cluster costs** via rightsizing, workload optimization, and infrastructure redesign
+- Led a **FinOps initiative that significantly reduced EKS cluster costs** via rightsizing, workload optimization, and infrastructure redesign
 - **Re-architected EKS topology**: node-group restructuring, instance-type optimization (spot + mixed instance families), and scaling policies aligned with real workload demand
 - Analyzed CPU/memory utilization across Kubernetes deployments, eliminating overprovisioning without hurting performance
 - Automated provisioning and lifecycle management with **Terraform**, ensuring consistency and auditability
@@ -153,6 +153,7 @@ Full verified list on [Credly](https://www.credly.com/users/charlesjosiah) and [
 
 | Certification | Issuer | Issued | Valid until |
 |---|---|---|---|
+| Oracle Linux: System Administration on Oracle Cloud Infrastructure | Oracle | Jul 2026 | — |
 | AWS Certified Security – Specialty | AWS | Dec 2023 | Dec 2026 |
 | Oracle Cloud Infrastructure 2025 Certified Architect Associate | Oracle | Oct 2025 | Oct 2027 |
 | Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | Oct 2025 | Oct 2027 |
